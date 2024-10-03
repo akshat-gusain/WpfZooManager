@@ -1,0 +1,15 @@
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\bin\Debug\Wpf Zoomanager.exe.config
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\bin\Debug\Wpf Zoomanager.exe
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\bin\Debug\Wpf Zoomanager.pdb
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\Wpf Zoomanager.csproj.AssemblyReference.cache
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\MainWindow.g.cs
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\App.g.cs
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\Wpf Zoomanager_MarkupCompile.cache
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\Wpf Zoomanager_MarkupCompile.lref
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\MainWindow.baml
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\Wpf Zoomanager.g.resources
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\Wpf_Zoomanager.Properties.Resources.resources
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\Wpf Zoomanager.csproj.GenerateResource.cache
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\Wpf Zoomanager.csproj.CoreCompileInputs.cache
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\Wpf Zoomanager.exe
+D:\DownL\Wpf ZooManager\Wpf Zoomanager\obj\Debug\Wpf Zoomanager.pdb
