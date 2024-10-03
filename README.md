@@ -54,3 +54,8 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/akshat-gusain/WpfZooManager.git
+
+
+## License
+
+This project is licensed under the MIT License.
